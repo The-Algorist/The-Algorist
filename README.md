@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src=<div class="tenor-gif-embed" data-postid="24276483" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/machine-learning-artificial-intelligence-gif-24276483">Machine Learning Artificial Intelligence GIF</a>from <a href="https://tenor.com/search/machine+learning-gifs">Machine Learning GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src= "https://tenor.com/bN1Al.gif" height="175px"/></a>
 
 <h1 align="center"> <p style="Font-family: Papyrus, cursive"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Warui</h1> </a> </p>
 <h3 align="center"><p style="Font-family: Papyrus, cursive"> <a style = "color:Orange" >I'm a zealous Data Evangelist from Kenya.</a></p></h3>
