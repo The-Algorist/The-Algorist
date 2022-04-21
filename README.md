@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://shooliniuniversity.com/blog/wp-content/uploads/2021/08/artificial-intelligence-shoolini-university-best-himachal-pradesh-university.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://shooliniuniversity.com/blog/wp-content/uploads/2021/08/artificial-intelligence-shoolini-university-best-himachal-pradesh-university.png" height="175px"/></a>
 
 <h1 <p style="Font-family: Papyrus, cursive"> <a align="center"> <p style = "color: SkyBlue"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Warui</h1> </a> </p>
 <h3 align="center"><p style="Font-family: Papyrus, cursive"> <a style = "color:Orange" >I'm a zealous Data Evangelist from Kenya.</a></h3>
