@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src= "https://tenor.com/bN1Al.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src= "https://tenor.com/bN1Al.gif"></a>
 
 <h1 align="center"> <p style="Font-family: Papyrus, cursive"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Warui</h1> </a> </p>
 <h3 align="center"><p style="Font-family: Papyrus, cursive"> <a style = "color:Orange" >I'm a zealous Data Evangelist from Kenya.</a></p></h3>
