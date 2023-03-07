@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Google Cloud Platform Machine Learning Engineer Certification**
+- 🔭 I’m currently working a **Data Engineer at YaKwetu Online Limted**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning**
 
